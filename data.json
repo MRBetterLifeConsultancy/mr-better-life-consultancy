@@ -1,0 +1,924 @@
+{
+    "services" : {
+        "Student Profile Analysis" :
+        {
+            "header_content" : "Our profile analysis sessions will immensely help you analyze and improve your profile and to know your oppurtunities.",
+            "offerings" : [
+                "Personalized profile evaluation",
+                "Academic and Career Alignment",
+                "Profile Building and Skill Enhancement"
+            ],
+            "image_1_url" : "service-1-1.jpg",
+            "image_2_url" : "service-1-2.png",
+            "image_3_url" : "service-1-3.png",
+            "image_4_url" : "service-1-4.png",
+            "home_page_icon":"person-badge-fill"   
+        },
+
+        "Career Couselling" : 
+        {
+            "header_content" : "Our counselling sessions will immensely benefit you in making the best academic decision suiting your career choices.",
+            "offerings" : [
+                "Career-oriented counselling",
+                "Emphasis on futuristic courses and careers",
+                "Interactive sessions with university delegates"
+            ],
+            "image_1_url" : "service-2-1.png",
+            "image_2_url" : "service-2-2.png",
+            "image_3_url" : "service-2-3.png",
+            "image_4_url" : "service-2-4.png",
+            "home_page_icon":""
+        },
+
+        "Test preparation" : 
+        {
+            "header_content" : "Effortlessly reach your highest potential test score with our certified, adept and dedicated tutors who will efficiently prepare you for your desired tests.",
+            "offerings" : [
+                "Interactive classrooms & free demo sessions",
+                "Study material that’s simple yet highly effective",
+                "Score oriented tutorials & mock tests"
+            ],
+            "image_1_url" : "service-3-1.png",
+            "image_2_url" : "service-3-2.png",
+            "image_3_url" : "service-3-3.png",
+            "image_4_url" : "service-3-4.png",
+            "home_page_icon":""
+        },
+        
+        "Country & University selection" : 
+        {
+            "header_content" : "We help you choose the ideal course, university & country that perfectly match your career, academic and budget preferences.",
+            "offerings" : [
+                "Make precise academic and career decisions",
+                "University comparison – rankings, courses & scholarships",
+                "Course options across 850+ universities in 33 countries"
+            ],
+            "image_1_url" : "service-4-1.png",
+            "image_2_url" : "service-4-2.png",
+            "image_3_url" : "service-4-3.png",
+            "image_4_url" : "service-4-4.png",
+            "home_page_icon":""
+        },
+
+        "Application & Admission" : 
+        {
+            "header_content" : "Choose the right intake, apply timely and smartly in courses and universities that are your right fit and receive admits/offers in no time.",
+            "offerings" : [
+                "Flawless applications - assured admits",
+                "High quality SOPs, LORs and Resumes",
+                "Real time application tracking & follow through with universities"
+            ],
+            "image_1_url" : "service-5-1.png",
+            "image_2_url" : "service-5-2.png",
+            "image_3_url" : "service-5-3.png",
+            "image_4_url" : "service-5-4.png",
+            "home_page_icon":""
+        },
+
+        "Financial Aid & Scholarships" : {
+            "header_content" : "Our global universities have plenty of scholarships on offer and we will help you identify and apply for the ones you deserve the most.",
+            "offerings" : [
+                "Alerts on latest and high value scholarships",
+                "Guidance on ‘how’ to apply for scholarships",
+                "Assistance for scholarship essays"
+            ],
+            "image_1_url" : "service-6-1.png",
+            "image_2_url" : "service-6-2.png",
+            "image_3_url" : "service-6-3.png",
+            "image_4_url" : "service-6-4.png",
+            "home_page_icon":""
+        },
+
+        "Education Loan" : {
+            "header_content" : "Availing an education loan to study in your dream university has never been easier!",
+            "offerings" : [
+                "Study Loans through HDFC, Avanse, Auxilo and more",
+                "Financial structuring to suit your university",
+                "Hassle free documentation"
+            ],
+            "image_1_url" : "service-7-1.png",
+            "image_2_url" : "service-7-2.png",
+            "image_3_url" : "service-7-3.png",
+            "image_4_url" : "service-7-4.png",
+            "home_page_icon":""
+        },
+
+        "Visa guidance" : 
+        {
+            "header_content" : "Our skilled visa experts will help you prepare and present your visa documents to Embassies and High Commissions to ensure a successful visa outcomes in minimal time.",
+            "offerings" : [
+                "Impeccable guidance on visa documentation",
+                "Excellent visa success ratio across all countries",
+                "Mock visa interviews"
+            ],
+            "image_1_url" : "service-8-1.png",
+            "image_2_url" : "service-8-2.png",
+            "image_3_url" : "service-8-3.png",
+            "image_4_url" : "service-8-4.png",
+            "home_page_icon":""
+        },
+
+        "Pre-Departure Briefing" : {
+            "header_content" : "Pre-departure orientation sessions are designed to help you navigate personal and cultural growth opportunities during your time abroad.",
+            "offerings" : [
+                "You'll gain insights into local culture, Student life in your new country, Culture shock, Support and well-being",
+                "Practical insights on Banking and foreign exchange, Working while studying and internship advice, A network of advice"
+            ],
+            "image_1_url" : "service-9-1.png",
+            "image_2_url" : "service-9-2.png",
+            "image_3_url" : "service-9-3.png",
+            "image_4_url" : "service-9-4.png",
+            "home_page_icon":""
+        },
+
+        "Post-Arrival Assitance" : {
+            "header_content" : "Post-Arrival assiatnce plays an important role in helping international students to have a successful study abroad experience",
+            "offerings" : [
+                "booking an accommodation, Remittance process",
+                "Remittance process, Education Loan",
+                "Minimum premium, maximum cover"
+            ],
+            "image_1_url" : "service-10-1.png",
+            "image_2_url" : "service-10-2.png",
+            "image_3_url" : "service-10-3.png",
+            "image_4_url" : "service-10-4.png",
+            "home_page_icon":""
+        }
+    },
+
+    "regions" : {
+        "usa" :
+        {
+            "header_content" : "The United States of America has been a global leader in the field of education and boasts of a lion’s share of top ranked universities according to all major international rankings. Few countries offer as many high ranked universities and noble laureate academia, as USA does.",
+
+            "why_content" : "Study in one of the most prestigious higher education systems globally and access some high-end technology and cutting-edge research for an immersive, engaging & collaborative study experience. Choose from an extensive range of schools, numerous study disciplines and niche qualifications that are difficult to find by in other parts of the world and experience a uniquely flexible education system allowing you to apply to a variety of programs suiting your academic & career goals. Graduate with a truly global outlook and real-world skills for the future.",
+
+            "key_points" : [
+                "USA hosts more than a million international students",
+                "Over 25% of world’s top 100 universities are in the USA",
+                "Post-study stay back visas (OPT) up to 3 years for STEM programs",
+                "Internships (CPT) up to 12 months while studying",
+                "Merit Based & Need Based Scholarships",
+                "Over 4500 accredited universities & institutions to choose from",
+                "12 of the best student cities in the world (QS Best Student Cities 2024)",
+                "Opportunities for Research, Teaching & Graduate Assistantships"
+            ],
+
+            "cost" : {
+                "header_cells" : ["Types of Expenses", "Annual Expenses in USD"],
+                "rows" : [
+                    ["Tution fees for one-year(Indicative)*", "25000"],
+                    ["Living and Accomodation", "15000"],
+                    ["Airfare from India to USA", "1000"],
+                    ["Visa Fees (Visa & SEVIS)", "535"]
+                ],
+                "footer_cells" : ["Total Expenses", "41535"]
+            },
+
+            "career_and_industry" : "One of the most technologically powerful and dynamic countries, USA is the largest & most dominant economy globally. Sectors that empower this world’s most productive economy include Healthcare, Technology, Construction, Retail, Manufacturing, Finance & Insurance and Real Estate. Top jobs with high remuneration prospects for international students include Medicine, Computer & Information Systems Managers, Architectural & Engineering Managers and Marketing & Financial Managers. Standard of living in the USA is among the highest in the world with high per capita income. This nation performs very well in many measures of well-being such as income & wealth, health status, jobs and earnings, education & skills and environmental quality.",
+
+            "image_1_url" : "usa-1.png",
+            "image_2_url" : "usa-2.png",
+            "image_3_url" : "usa-3.png",
+            "image_4_url" : "usa-4.png"
+        },
+
+        "uk" : 
+        {
+            "header_content" : "With an academic reputation built on centuries old heritage, The UK is home to some of the world’s oldest universities that consistently rank among the highest in the world. Universities in UK have a rich legacy of welcoming international students for centuries and are known to offer an unforgettable student experience as they know the needs and aspirations of their students very well.",
+
+            "why_content" : "Learn from some of the world's best academics and experts in some of world’s most prestigious universities and benefit from their exceptional academic support. Study alongside some of the finest and brilliant minds and hone your skills using state-of-the-art technology. Avail placements, internships and volunteering positions that are your right fit through strong industry links of UK universities and apply your knowledge and skills in a real-world professional environment. Graduate with skills and expertise that are in high demand around the world and get hired by your dream employers.",
+
+            "key_points" : [
+                "The UK undertakes 5% of the world’s scientific research and produces 14% of the world’s most frequently cited papers",
+                "UK welcomes over 400,000 students every year",
+                "Post study work visa of 2 years",
+                "12 of world’s top 100 universities are in The UK (QS World Rankings 2024)",
+                "14 of the best student cities in the world are in The UK (QS Best Student Cities 2024)",
+                "UK offers 131 universities of international repute to study from",
+                "Admission without IELTS possible",
+                "Masters courses with 1 year work placements are available"
+            ],
+
+            "cost" : {
+                "header_cells" : ["Types of Expenses", "Annual Expenses in GBP"],
+                "rows" : [
+                    ["Tution fees for one-year(Indicative)*", "14000"],
+                    ["Living and Accomodation", "9207"],
+                    ["Airfare from India to UK", "500"],
+                    ["Immigration Health Surcharge/National Health Surcharge", "1164"],
+                    ["Visa Fees", "490"]
+                ],
+                "footer_cells" : ["Total Expenses", "41535"]
+            },
+
+            "career_and_industry" : "The UK is one of the most globalised economies comprising of England, Scotland, Wales and Northern Ireland and is among the world’s biggest economies. The sectors that dominate UK’s economy include service sector, financial services, higher education, aerospace, pharmaceuticals, manufacturing and production. Best paid jobs in the UK include Information Technology Managers, Engineering Professionals, Business and Financial Management Professionals, Legal Professionals, Aircraft Pilots & Flight Engineers, Higher Education Teaching Professionals and Medical Practitioners.",
+
+            "image_1_url" : "uk-1.png",
+            "image_2_url" : "uk-2.png",
+            "image_3_url" : "uk-3.png",
+            "image_4_url" : "uk-4.png"
+        },
+
+        "canada" : 
+        {
+            "header_content" : "A country that offers a truly dynamic education system with some of the world’s best universities, a high standard of living & a promising future, Canada is undoubtedly amongst the most popular and ideal study destinations in the world.",
+
+            "why_content" : "Study in a country that has tripled its international student population over the past decade, thanks to its globally recognized universities offering a world class education, highly practical programs with hands-on learning and some of the most affordable tuition fees among English-speaking countries. Enjoy top quality life in the ‘most liveable cities’ of Vancouver and Toronto and advance your career in one of the very resource rich, industrialized and stable economies.",
+
+            "key_points" : [
+                "Among the Safest Countries Globally",
+                "Hands-on learning",
+                "Paid Internships Available",
+                "Post Study Work Visa up to 3 Years",
+                "Excellent Immigration Opportunities"
+            ],
+
+            "cost" : {
+                "header_cells" : ["Types of Expenses", "Annual Expenses in CAD (Diploma)", "Annual Expenses in CAD (Degree)"],
+                "rows" : [
+                    ["Tution fees for one-year (Indicative)*", "17000", "20000"],
+                    ["Living and Accomodation", "20635", "20635"],
+                    ["Airfare from India to Canada", "2500", "2500"],
+                    ["Visa Fees (Including Biometric fees)", "235", "235"]
+                ],
+                "footer_cells" : ["Total Expenses", "40370", "43370"]
+            },
+
+            "career_and_industry" : "Among the wealthiest nations in the world, Canada is a land of opportunities for those who wish to study, live and prosper. Canada’s highly sophisticated economy is fuelled by sectors such as Agriculture, Energy, Technology, Manufacturing & Services. Top careers international students can look forward to include Engineering, Construction, IT, Healthcare, Law and Banking & Finance. This country enjoys a job growth rate well above its population growth rate and offers a high standard of living to all its residents including international students.",
+
+            "image_1_url" : "canada-1.png",
+            "image_2_url" : "canada-2.png",
+            "image_3_url" : "canada-3.png",
+            "image_4_url" : "canada-4.png"
+        },
+
+        "ireland" : 
+        {
+            "header_content" : "Set yourself on a path of a global career with one of the world’s most dynamic & advanced education systems. Foster your creativity & entrepreneurship in universities that are developing world class graduates to address challenges of today and the future.",
+
+            "why_content" : "Home to 9 of 10 global ICT companies, 8 of the 10 global pharmaceutical companies, a global financial services powerhouse and a centre of international banking excellence, Ireland is the European hub to over 1,000 leading multinational corporations across multiple sectors. Potential career opportunities in a host of global giants including Microsoft, Google, PayPal, Apple, Twitter, Microsoft, LinkedIn, Pfizer, GSK and Genzyme make studying in Ireland a very lucrative opportunity. High academic standards of Irish universities are enabling their graduates to make an impact on academia, research and the global business world.",
+
+            "key_points" : [
+                "Europe’s fastest growing economy",
+                "Ranked #10 Globally for High-Quality Scientific Research",
+                "Post Study Work Visa up to 2 Years",
+                "All Universities Globally Ranked among top 5%",
+                "Ranked as the 13th most peaceful place on Earth",
+                "Qualifications quality assured by Quality & Qualifications Ireland, an Irish State Agency",
+                "Among the top 20 education systems worldwide",
+                "Ireland is ranked 11th in the 2018 Global Innovation Index"
+            ],
+
+            "cost" : {
+                "header_cells" : ["Types of Expenses", "Annual Expenses in €"],
+                "rows" : [
+                    ["Tution fees for one-year (Indicative)*", "15000"],
+                    ["Living and Accomodation", "12000"],
+                    ["Airfare from India to Ireland (Indicative)", "700"],
+                    ["Visa Fees", "195"]
+                ],
+                "footer_cells" : ["Total Expenses", "27895"]
+            },
+            
+            "career_and_industry" : "Ireland has made huge strides in economic development in the last few decades and has improved its living conditions better than most of the countries in the world. Ireland has a highly-advanced ‘knowledge economy’ emphasizing on the sectors of agribusiness, life sciences and financial services & technology. This country ranks first for high-value foreign direct investment (FDI) flows and performs better than most countries measure of well-being such as jobs & earnings, health status, education & skills and work-life balance in the Better Life Index. IT Services, Financial Services, Renewable Energy, Business Services, Medical/Health & Pharmaceutical Industry are the top industries for employment opportunities.",
+
+            "image_1_url" : "ireland-1.png",
+            "image_2_url" : "ireland-2.png",
+            "image_3_url" : "ireland-3.png",
+            "image_4_url" : "ireland-4.png"
+        },
+
+        "australia" : 
+        {
+            "header_content" : "A network of world leading universities, outstanding learning & research facilities, inspiring lectures from brilliant instructors & unparalleled academic excellence, Australian education system offers them all with an exceptional student experience & qualifications that are valued world over.",
+
+            "why_content" : "Study in a country that has produced over 2.5 million global graduates and has set exceptional standards for global education. Pursue high-quality & globally recognized qualifications from world class institutions. Enhance your career prospects by gaining hands-on industry experience through placements and internships, make connections with global employers, and succeed in the global workforce. Feel welcomed & inspired in some of the most liveable cities that are rich with people from diverse nationalities and cultures from all over the world.",
+
+            "key_points" : [
+                "9 of World’s Top 100 Universities",
+                "Choose from over 22,000 Courses across 1,100 Institutions",
+                "5 out of 30 Best Student Cities in the world are in Australia (QS Best Student Cities 2024)",
+                "More than A$300 Million Invested in Scholarships for International Students",
+                "Australian Universities have Produced 15 Nobel Laureates",
+                "More than Half a Million International Students from 192 Countries",
+                "Post Study Work Visa up to 5 years*",
+                "Good Permanent Residency Prospects"
+            ],
+
+            "cost" : {
+                "header_cells" : ["Types of Expenses", "Annual Expenses in AUD"],
+                "rows" : [
+                    ["Tution fees for one-year(Indicative)*", "35000"],
+                    ["Living and Accomodation", "29710"],
+                    ["Airfare from India to Australia", "2000"],
+                    ["Visa Fees", "1600"]
+                ],
+                "footer_cells" : ["Total Expenses", "68310"]
+            },
+
+            "career_and_industry" : "Australia, the 12th-largest economy, is one of the wealthiest Asia–Pacific nations. After having enjoyed over two decades of economic expansion, Australia has become internationally competitive in financial and insurance services, technologies, and high-value-added manufactured goods. International students can look forward to high remuneration career prospects such as Medicine & Healthcare, Finance, IT, Mining & other Engineering Trades, Teaching & Social Work. Australian enjoy one of the highest standards of living in the world owing to a robust economy and a high employment rate with good quality of jobs.",
+
+            "image_1_url" : "australia-1.png",
+            "image_2_url" : "australia-2.png",
+            "image_3_url" : "australia-3.png",
+            "image_4_url" : "australia-4.png"
+        },
+
+        "new_zealand" : 
+        {
+            "header_content" : "New Zealand offers world class education system, qualifications that are valued globally, an unmatchable lifestyle and friendly & welcoming natives. This island country has abundant natural beauty, breathtaking landscapes and picturesque coastlines that make studying in New Zealand an adventurous experience.",
+
+            "why_content" : "Study in a high-quality education system closely monitored and regulated by the NZ government. Experience practical teaching style and hands-on learning to inculcate real-world skills that will open doors of global opportunities. Gain impeccable English language abilities to be effective in multicultural and challenging work environments. Stay ahead in the competition with NZ qualifications that are highly sought after in the international job market.",
+
+            "key_points" : [
+                "New Zealand universities are ranked in the top 3% in the world",
+                "Only country in the world to have all its universities in the global top 500",
+                "Over 20,000 international students from 160 countries",
+                "8 state-funded universities, 16 Institutes of Technology and Polytechnics (ITPs) & 550 Private Training Establishments (PTEs)",
+                "Post-study work visa up to three years and good permanent residency prospects",
+                "Ranked as the top English-speaking country at preparing students for the future (The Economist Intelligence Unit in 2019)",
+                "A member of the Lisbon Qualification Recognition Convention – NZ qualifications are recognised in over 50 countries",
+                "Lower tuition fee with plenty of scholarships on offer"
+            ],
+
+            "cost" : {
+                "header_cells" : ["Types of Expenses", "Annual Expenses in NZD"],
+                "rows" : [
+                    ["Tution fees for one-year(Indicative)*", "25000"],
+                    ["Living and Accomodation", "20000"],
+                    ["Airfare from India to ", "2000"],
+                    ["Visa Fees", "430"]
+                ],
+                "footer_cells" : ["Total Expenses", "47430"]
+            },
+
+            "career_and_industry" : "New Zealand is one of the Asia–Pacific region’s most prosperous countries and has been experiencing a rapid economic growth over the past few decades. NZ has the 2nd freest & one of the most globalized economies that depends greatly on international trade. NZ’s economy is primarily driven by sectors of services, mining & manufacturing, forestry, agriculture & dairy, while IT is making big strides to gain a major share. Industries that have excellent employment prospects include Engineering, Business & Finance, Health & Social Services, and IT & Hospitality. Standard of living in NZ is relatively higher but is worth the opportunities and peaceful and high-quality life this country offers.",
+
+            "image_1_url" : "new-zealand-1.png",
+            "image_2_url" : "new-zealand-2.png",
+            "image_3_url" : "new-zealand-3.png",
+            "image_4_url" : "new-zealand-4.png"
+        },
+
+        "europe" : 
+        {
+            "header_content" : "European universities combine rich traditions with high-tech facilities and unique research opportunities.",
+
+            "multiple" : true,
+
+            "countries" : 
+            {
+                "France": {
+                  "header_content": "France is home to one of the most prestigious educational systems in the world. No matter what subjects or degrees you wish to pursue, there are plenty of universities and institutions that are a perfect match to your academic pursuits in France.",
+              
+                  "why_content": "Studying in France comes with a plethora of advantages such as accredited research laboratories, veteran professors committed to help you excel in your academics and institutions of world repute with excellent learning capabilities & infrastructure. Paris, France’s leading education destination is a hub for innovation, tech start-ups and Europe’s savvy entrepreneurs who are leading exciting ventures to tackle world’s biggest challenges. This country also offers an excellent multicultural study experience bringing together students from different parts of the world.",
+              
+                  "key_points": [
+                    "64 Nobel Laureates and 15 Fields Medals",
+                    "Post Study Work Visa up to 2 Years (post Masters’ degree)",
+                    "France is home to 3,500 higher education institutions",
+                    "4 French universities in top 100 in the world (QS World Rankings 2024)",
+                    "Affordable tuition fee and living expenses",
+                    "French – A popular language which is spoken across the globe",
+                    "Paris – one among top 10 student cities globally",
+                    "French public institutes & The French Foreign Ministry awards many different scholarships to international students"
+                  ],
+              
+                  "cost": {
+                    "header_cells": ["Types of Expenses", "Annual Expenses in €"],
+                    "rows": [
+                      ["Tution fees for one-year(Indicative)*", "10000"],
+                      ["Living and Accomodation", "12000"],
+                      ["Airfare from India to France", "450"],
+                      ["Visa Fees", "50"]
+                    ],
+                    "footer_cells": ["Total Expenses", "22500"]
+                  },
+              
+                  "career_and_industry": "France is the world's fifth largest economy and is home to 31 of the world's 500 most powerful companies. Airbus, LVMH, Orange, Danone, Total, L’Oréal & Sanofi are some of leading French organizations of international repute. France is also actively involved in global affairs as a member of leading organizations such as the European Union, The Group of Seven (G7), NATO & The World Trade Organization (WTO). Industries that dominate the employment market include health and social care, wholesale and retail trade, manufacturing, automotive, metallurgy, and aerospace. There is a high demand of professionals in the domains of Business & Management, Teaching, Information Technology, Health, Law and Aviation.",
+              
+                  "image_1_url": "europe1.svg",
+                  "image_2_url": "europe2.svg",
+                  "image_3_url": "europe3.svg",
+                  "image_4_url": "europe4.svg"
+                },
+              
+                "Germany": {
+                  "header_content": "Germany is fast becoming one of the most favoured choices for international education with hundreds of thousands of students seeking an entry in German universities. This country offers an unparalleled learning ecosystem known for producing high quality graduates who achieve high employability and better salaries in the global job market.",
+              
+                  "why_content": "Immerse in Germany’s unique education system where theory and practicum go hand in hand. Achieve your academic objectives and realize your true potential to build a strong foundation for your future career prospects. Study programs that are structured and delivered to meet world standards and acquire skills that future graduates are expected of. Develop innovative and practical solutions to real-world problems and carve your own niche in technologies for the real world.",
+              
+                  "key_points": [
+                    "More than 400 state-recognised institutions of higher education",
+                    "20,000 different study programmes to choose from",
+                    "Germany boasts of having over 400,000 international students",
+                    "Post Study Work Visa up to 1.5 Years",
+                    "Study in Europe’s strongest economy",
+                    "Free/affordable education coupled with affordable cost of living",
+                    "Programs available in English language",
+                    "Safe and happy environment for International Students"
+                  ],
+              
+                  "cost": {
+                    "header_cells": ["Types of Expenses", "Annual Expenses in €"],
+                    "rows": [
+                      ["Tution fees for one-year(Indicative)*", "10000"],
+                      ["Living and Accomodation", "11208"],
+                      ["Airfare from India to Germany", "300"],
+                      ["Visa Fees (Visa & SEVIS)", "75"]
+                    ],
+                    "footer_cells": ["Total Expenses", "21583"]
+                  },
+              
+                  "career_and_industry": "A founding member of the European Union, Germany is one of the most powerful and influential economies in the world and is the largest manufacturing economy in Europe. German companies such as Siemens, Volkswagen, BMW, Daimler & Allianz are known to be global leaders and have a world-wide network of branches. Leading sectors looking for international professionals include chemicals, engineering, electronics, IT, machinery, automobiles & manufacturing. Areas with high growth prospects include telecommunication, high-tech manufactured products, automotive industry, banking & finance.",
+              
+                  "image_1_url": "germany1.svg",
+                  "image_2_url": "germany2.svg",
+                  "image_3_url": "germany3.svg",
+                  "image_4_url": "germany4.svg"
+                },
+              
+                "Netherlands": {
+                  "header_content": "With Netherlands hosting students from as many as 160 countries, you can experience an excellent international culture in Dutch universities, which is complemented by an education ecosystem that is student centered and industry oriented at the same time.",
+              
+                  "why_content": "Study in Dutch universities that are known for offering carefully designed contemporary courses and infrastructure that matches global standards. Excel in your academics with a teaching style that emphasizes on teamwork allowing you to collaborate with like-minded Dutch and international students in an education system that inculcates analytical and problem-solving skills for the real world. Study practical elements embedded in your curriculum that will prepare you for the industry and benefit from excellent industry partnerships of Dutch universities with local and international companies allowing you to find internship opportunities related to your domain.",
+              
+                  "key_points": [
+                    "9 universities among top 200 in the world (QS World Rankings 2024)",
+                    "Multicultural country -One in every 10 university students is an international student",
+                    "Post Study Work Visa up to 1 Year",
+                    "Amsterdam, the capital city, is among the best student cities worldwide",
+                    "Over 2000 English taught programs to choose from",
+                    "Economical cost of education and living expenses",
+                    "One of the safest countries in the world (2018 Global Peace Index)",
+                    "Netherlands offers excellent career opportunities to international students"
+                  ],
+              
+                  "cost": {
+                    "header_cells": ["Types of Expenses", "Annual Expenses in €"],
+                    "rows": [
+                      ["Tution fees for one-year(Indicative)*", "11000"],
+                      ["Living and Accomodation", "11500"],
+                      ["Airfare from India to Netherlands", "570"],
+                      ["Visa Fees (Visa & SEVIS)", "210"]
+                    ],
+                    "footer_cells": ["Total Expenses", "23280"]
+                  },
+              
+                  "career_and_industry": "Netherlands has one of Europe’s most competitive economies and is the world’s 18th largest economy. Top sectors driving Netherland’s economy include Agriculture & Food, Clean Energy & Environment Technology, Creative & High Tech Industries, Logistics, and Water Industries. Popular job sectors in Netherlands include Energy Sector, Water Resource Management, Aerospace & Mechanical Sector, Information & Communications Technology and Banking & Finance. Netherlands is home to some of the world’s leading multinationals such as Philips, Heineken, KLM, Shell, ING and Unilever. In addition, MNCs such as Sony, Sara Lee and Microsoft have their European headquarters in this country. According to the Better Life Index, Netherlands ranks top in work-life balance and performs well in other parameters such as jobs & earnings, housing, education & skills environmental quality & health status.",
+              
+                  "image_2_url": "netherland2.svg",
+                  "image_1_url": "netherland1.svg",
+                  "image_3_url": "netherland3.svg",
+                  "image_4_url": "netherland4.svg"
+                },
+              
+                "Sweden": {
+                  "header_content": "With an education system that fosters creativity and emphasizes more on academic pursuits than just achieving higher grades and home to universities that instil ambition, innovation and critical thinking, Sweden is among the most innovative study destinations in the world.",
+              
+                  "why_content": "Swedish universities appreciate initiative and encourage students to actively contribute to collective learning efforts through lectures, seminars and group discussions. This approach gives students an opportunity to develop independent thinking and strengthens their academic abilities. Studies and practical work often go hand-in-hand in Swedish universities enabling their students to have some real-world experience when they graduate and enter the industry. Some notable successful innovations by Swedish universities and industries that are a result of this culture are computer mouse, the pacemaker, the dialysis machine, Bluetooth, Spotify & Skype.",
+              
+                  "key_points": [
+                    "Around 40 universities to study from",
+                    "Over 900 programs to choose from",
+                    "6 Swedish universities among world’s top 200 (QS World Rankings 2024)",
+                    "Post Study Work Visa up to 1 Year",
+                    "Capital city of Stockholm is among the best student cities",
+                    ""
+                  ],
+              
+                  "cost": {
+                    "header_cells": ["Types of Expenses", "Annual Expenses in SEK"],
+                    "rows": [
+                      ["Tution fees for one-year(Indicative)*", "145000"],
+                      ["Living and Accomodation", "102816"],
+                      ["Airfare from India to Sweden", "700"],
+                      ["Visa Fees (Visa & SEVIS)", "1500"]
+                    ],
+                    "footer_cells": ["Total Expenses", "250016"]
+                  },
+              
+                  "career_and_industry": "The economy of Sweden is a developed, export driven economy. The top industries that drive Swedish economy include automobiles, chemicals, home goods & appliances, iron & steel, pharmaceuticals, precision equipment and telecommunications. Sweden is known to have some large multinational organizations that are at the forefront of innovation and technology such as Ericsson, Volvo, Scania, Electrolux, SKF, Sandvik, Atlas Copco & IKEA. Top paid professions in Sweden include law, banking & finance, education, aviation, management, healthcare & tourism. Sweden performs very well in chief indicators of standard of living such as environmental quality, education and skills, work-life balance, health status, jobs and earnings and personal safety.",
+              
+                  "image_1_url": "sweden1.png",
+                  "image_2_url": "sweden2.png",
+                  "image_3_url": "sweden3.png",
+                  "image_4_url": "sweden4.png"
+                },
+              
+                "Austria": {
+                  "header_content": "Austria offers considerable cultural diversity and depth, as well as exceptional academic and social exposure for international students. To top it all, Austria is bordered by eight distinct countries, all of which are relatively simple to get to because of the country's effective and extensive rail system. The country has a thriving industry base and high employment ratio.",
+              
+                  "why_content": "Austria is home to universities and higher education facilities well acknowledged worldwide. This European country provides good quality education and supportive learning environment. It is a popular choice for students looking to study abroad due to its relatively low cost of study and living. The education system in this nation is more laid-back and accommodating, allowing pupils to take their time. Most universities offer courses taught in English which gives international students additional convenience. Exchange students have the option to enrol in exclusively specialized study tracks. Learning German helps students become more employable in Austria.",
+              
+                  "key_points": [
+                    "Strategic location in Europe",
+                    "3 Universities in Top 300 in the World (QS World Ranking 2023)",
+                    "Stay back option of 6 months for all International Students",
+                    "English Taught Courses",
+                    "Affordable tuition fee and living expenses",
+                    "Scholarships and Part-Time Job Opportunities for International Students"
+                  ],
+              
+                  "cost": {
+                    "header_cells": ["Types of Expenses", "Annual Expenses in €"],
+                    "rows": [
+                      ["Tution fees for one-year(Indicative)*", "10000"],
+                      ["Living and Accomodation", "9000"],
+                      ["Airfare from India to Austria", "350"],
+                      ["Visa Fees (Visa & SEVIS)", "160"]
+                    ],
+                    "footer_cells": ["Total Expenses", "19510"]
+                  },
+              
+                  "career_and_industry": "Austria offers a simple work permit system compared to other European countries. The country's job market is dominated by medium-sized businesses, as opposed to much of Europe, where the market is dominated by large businesses. Austria has a high minimum wage of €1,500 per month as of February 2023, for all sectors and Austrians make an average of €48,317 a year. Austria releases a list of jobs with a scarcity each year. Some of the professions which have a scarcity in the nation as of February 2023 are Power Engineers, Mechanical Engineers, Chemical Engineers, Cost Accountants, Specialists in Business Administration, Welders and Cutting Torch Operators, Floor and Wall Tilers, Chefs, Hotel Staff Members, Physicians and Medical Technologists. • Anaesthesiology & Intensive care medicine • Cardiology • Dermatology & Venerology • Endodontic • Gastroenterology",
+              
+                  "image_1_url": "austria1.png",
+                  "image_2_url": "austria2.png",
+                  "image_3_url": "austria3.png",
+                  "image_4_url": "austria4.png"
+                },
+              
+                "Denmark" : 
+                              {
+                                  "header_content" : "The quality of education in Denmark is astounding, spanning a wide spectrum of academic disciplines like Health, Engineering, and Social Sciences. The school system in Denmark promotes creativity, imagination, analytical thinking, and critical thinking. Students in Denmark, experience a cutting-edge learning environment where they may pick the brains of business experts and apply for internships at well-known companies across the worl",
+              
+                                  "why_content" : "Denmark is a treasure trove of top-notch universities, with a few listed in the QS World University Rankings. Denmark's highly regarded universities, such as the University of Copenhagen and the University of Southern Denmark, are among the top universities here. Institutions like Aarhus University and Roskilde University are also among the select few preferred by international students. The degree a student receives from a Danish university or college will be valued and recognised globally. Most of the universities in Denmark offer excellent educational programmes and world-class facilities. Denmark offers great professional exposure to international students in addition to top-notch education. They can continue working while studying, but the best part is that even after receiving their degree, colleges and institutions assist students in finding internship opportunities at reputable organizations. Additionally, based on their qualifications and knowledge, students may be hired on a permanent basis.",
+              
+                                  "key_points" : [
+                                      "Top-Ranked Universities",
+                                      "3 Universities in Top 300 in the World (QS World Ranking 2023)",
+                                      "Stay back options available for International Students",
+                                      "Part-time job opportunities for students",
+                                      "Numerous grants and scholarships",
+                                      "Reasonable cost of living"
+                                  ],
+              
+                                  "cost" : {
+                                      "header_cells" : ["Types of Expenses", "Annual Expenses in EUR"],
+                                      "rows" : [
+                                          ["Tution fees for one-year(Indicative)*", "11000"],
+                                          ["Living and Accomodation", "12000"],
+                                          ["Airfare from India to Denmark", "550"],
+                                          ["Visa Fees (Visa & SEVIS)", "70"]
+                                      ],
+                                      "footer_cells" : ["Total Expenses", "23620"]
+                                  },
+              
+                                  "career_and_industry" : "The employment rate in Denmark has risen over the past few years, making it one of the highest in Europe in 2021. Similar to other developed countries, Denmark had an increase in the number of employed persons during the past ten years and was predicted to surpass 2.9 million in 2022. Some of the essential phrases that describe the Danish labour market include flexibility, security, flat hierarchical structures, and a team-oriented mindset. In general, the so-called Danish model, also known as the flexicurity model, combines social security and active labour market policies with high levels of employment mobility.",
+              
+                                  "image_1_url" : "denmark1.svg",
+                                  "image_2_url" : "denmark2.svg",
+                                  "image_3_url" : "denmark3.svg",
+                                  "image_4_url" : "denmark4.svg"
+                              },
+              
+                "Finland" : 
+                              {
+                                  "header_content" : "A country with pristine natural beauty and landscapes, Finland is among Europe’s most modern and innovative countries. With an education system that is at par with global standards, it is also a popular choice of international students due to the academic reputation of Finnish Universities.",
+              
+                                  "why_content" : "Finnish education system adopts a multi-disciplinary approach of combining self-studies with problem solving and well-rounded learning experience. Study in universities if research is your prime focus or enroll in universities of applied sciences for programs with more professional approach. High-tech laboratories, well-stock libraries, high-level infrastructure and technology along with top quality teaching that is accessible to all – Finnish universities impart necessary transferable skills to their students to prepare them for the academia and industry. There are good scholarship opportunities for international students with each university or university of applied sciences (UAS) having their own scholarship system.",
+              
+                                  "key_points" : [
+                                      "7 universities among top 500 in the world (QS World Rankings 2024)",
+                                      "Post Study Work Visa up to 1 Year",
+                                      "Helsinki – among the most popular student cities",
+                                      "Finland hosts over 20,000 international students",
+                                      "13 universities and 22 universities of applied sciences (UAS) to choose from",
+                                      "500 English-taught bachelor's and master's degree programmes",
+                                      "Affordable Tuition Fees",
+                                      "Pathways to Permanent Residency"
+                                  ],
+              
+                                  "cost" : {
+                                      "header_cells" : ["Types of Expenses", "Annual Expenses in "],
+                                      "rows" : [
+                                          ["Tution fees for one-year(Indicative)*", "10000"],
+                                          ["Living and Accomodation", "10000"],
+                                          ["Airfare from India to Finland", "570"],
+                                          ["Visa Fees (Visa & SEVIS)", "350"]
+                                      ],
+                                      "footer_cells" : ["Total Expenses", "20920"]
+                                  },
+              
+                                  "career_and_industry" : "Finland has a highly industrialized economy with services being the largest sector followed by manufacturing and refining. Electronics, Machinery, Automobiles, Forest & Energy are some of the largest industries in Finland. Career prospects are bright in the areas of Software Engineering, Nursing, Early Childhood Teaching, Accounting, Medicine & Law. Finland is a member of The United Nations, The Council of Europe and the World Trade Organization. Finland is also a top performer in many metrics of performance such as education, economic competitiveness, quality of life and human development.",
+              
+                                  "image_1_url" : "finland1.svg",
+                                  "image_2_url" : "finland2.svg",
+                                  "image_3_url" : "finland3.svg",
+                                  "image_4_url" : "finland4.svg"
+                              },
+              
+                "Italy" : 
+                              {
+                                  "header_content" : "Italy is widely known for being an education hub of Europe and is home to an impressive 40 universities which feature in the QS World University Rankings 2021. But there’s more to Italy than exceptional education - delicious food to beautiful museums and most importantly the career opportunities.",
+              
+                                  "why_content" : "",
+              
+                                  "key_points" : [
+                                      "Home to some of the oldest universities in the world",
+                                      "Cost of living and tuition fees in Italy is budget-friendly",
+                                      "Courses offered in the field of Architecture, Arts, Design and Fashion, Italy is very fluent in the language of Research and Science",
+                                      "Wide offer of courses in English language",
+                                      "Post study work visa of upto 1 year post completion of education"
+                                  ],
+              
+                                  "cost" : {
+                                      "header_cells" : ["Types of Expenses", "Annual Expenses in "],
+                                      "rows" : [
+                                          ["Tution fees for one-year(Indicative)*", ""],
+                                          ["Living and Accomodation", ""],
+                                          ["Airfare from India to ", ""],
+                                          ["Visa Fees (Visa & SEVIS)", ""]
+                                      ],
+                                      "footer_cells" : ["Total Expenses", ""]
+                                  },
+              
+                                  "career_and_industry" : "",
+              
+                                  "image_1_url" : "italy1.png",
+                                  "image_2_url" : "italy2.png",
+                                  "image_3_url" : "italy3.png",
+                                  "image_4_url" : "italy4.png"
+                              },
+              
+                "Hungary" : 
+                              {
+                                  "header_content" : "Hungarian higher education has been representing academic excellence for more than 650 years with its first university founded in 1367. Now, there are 65 higher education institutions in Hungary. Hungarian institutions offer more than 500 courses in English, German, French and other languages. The foreign language programmes are of a high standard and tuition fees are very favourable when compared to its competitors.",
+              
+                                  "why_content" : "",
+              
+                                  "key_points" : [
+                                      "Students can earn double degrees at many universities through joint degree programmes",
+                                      "Students can combine studies with professional practice by taking an Erasmus internship in Hungary",
+                                      "Globally accepted degrees",
+                                      "Many local and international companies offer internship positions to students",
+                                      "The tuition fee and living costs in Hungary are relatively affordable, compared to most other parts of Europe",
+                                      "Post study work visa of 9 months post completion of education"
+                                  ],
+              
+                                  "cost" : {
+                                      "header_cells" : ["Types of Expenses", "Annual Expenses in "],
+                                      "rows" : [
+                                          ["Tution fees for one-year(Indicative)*", ""],
+                                          ["Living and Accomodation", ""],
+                                          ["Airfare from India to ", ""],
+                                          ["Visa Fees (Visa & SEVIS)", ""]
+                                      ],
+                                      "footer_cells" : ["Total Expenses", ""]
+                                  },
+              
+                                  "career_and_industry" : "",
+              
+                                  "image_1_url" : "hungary1.png",
+                                  "image_2_url" : "hungary2.png",
+                                  "image_3_url" : "hungary3.png",
+                                  "image_4_url" : "hungary4.png"
+                              }
+                            },
+
+            "image_1_url" : "europe-1.jpg",
+            "image_2_url" : "europe-2.jpg",
+            "home_image_url" : "europe-home.jpg"
+        },
+
+        "asia" : 
+        {
+            "header_content" : "Asian universities combine rich traditions with high-tech facilities and unique research opportunities.",
+            "multiple" : true,
+            "countries":
+            {
+                "Singapore" : {
+                    "header_content" : "Study in Singapore to experience one of the best education systems in the world, to earn a globally recognized qualification from high ranked institutions and to experience a multicultural society with a very high quality of life.",
+
+                    "why_content" : "A city of skyscrapers, Singapore is fast emerging as Asia’s leading international study destination and is attracting students from all parts of the world, thanks to its reputation for being a center of academic excellence, universities and institutions that are highly placed in all major global rankings and this country being the IT & Business hub of Asia. Singapore ranks high on other crucial parameters such as student satisfaction and safety and affordability. Singapore’s status of being an economic powerhouse with excellent job opportunities across a diverse range of sectors complements its education system of international repute and makes this city country one of the most sought after study destinations globally.",
+
+                    "key_points" : [
+                        "Ranked as the second-best country to live and work in, according to an HSBC ranking in 2019",
+                        "2 universities ranked among the top 20 in the world",
+                        "One of the financial capitals of the world",
+                        "Institutions affiliated with top international universities in the USA, the UK, Canada & Australia",
+                        "Transfer opportunities to parent campus",
+                        "Masters of 1 Year and Bachelors of 2 or 3 years",
+                        "Paid - Unpaid Internship opportunities for the students",
+                        "Lower tuition fee and living expenses with plenty of scholarships on offer"
+                    ],
+
+                    "cost" : {
+                        "header_cells" : ["Types of Expenses", "Annual Expenses in SGD"],
+                        "rows" : [
+                            ["Tution fees for one-year(Indicative)*", "20000"],
+                            ["Living and Accomodation", "10000"],
+                            ["Airfare from India to ", "500"],
+                            ["Visa Fees", "90"]
+                        ],
+                        "footer_cells" : ["Total Expenses", "30590"]
+                    },
+
+                    "career_and_industry" : "Singapore’s economy has been ranked as the most open and most pro-business economy in the world. Top sectors driving Singapore’s economy include Information Technology, Pharmaceuticals, Biotechnology, Precision Engineering, Aerospace & Professional Services. A lot of multinational companies such as Twitter, Dyson, Tencent, LinkedIn & Facebook have established their regional headquarters and global RnD laboratories in Singapore. Singapore is a prominent business hub of Asia owing to its connectivity, robust economy and strong influence in the region. Singapore has also been ranked as the Asian city with highest quality of life by Mercer, world's leading human resource management consulting agency.",
+
+                    "image_1_url" : "singapore-1.jpg",
+                    "image_2_url" : "singapore-2.jpg",
+                    "image_3_url" : "singapore-3.jpg",
+                    "image_4_url" : "singapore-4.webp"
+                },
+
+                "Dubai" : {
+                    "header_content" : "Study in Dubai, a futuristic city that is home to over 60 world renowned university campuses and colleges and that offers plenty of higher education opportunities meeting your aspirations. Pursue a world class undergraduate or postgraduate degree from this destination and advance your career globally.",
+
+                    "why_content" : "Studying in Dubai comes with a dual benefit of accessing global campuses of universities of world repute and job opportunities of a booming economy at the same time. Institutions in Dubai have affiliations with international universities, offer a wide range of programs suiting your academic pursuits and have world class learning facilities. Dubai is among the fastest growing world economies and has an entrepreneurial ecosystem that creates hundreds of thousands of new jobs in diverse areas. Presence of renowned global universities and a robust economy makes studying in Dubai a very lucrative choice.",
+
+                    "key_points" : [
+                        "Dubai – a popular student city",
+                        "Institutions in Dubai are affiliated with top international universities in Australia and The UK",
+                        "Global tourism and entertainment hub",
+                        "A safe city and a modern design capital",
+                        "Excellent full time and part time job opportunities for international students",
+                        "Global knowledge hub",
+                        "Paid - Unpaid Internship opportunities for the students",
+                        "Affordable tuition fee and living expenses with plenty of scholarships"
+                    ],
+
+                    "cost" : {
+                        "header_cells" : ["Types of Expenses", "Annual Expenses in AED"],
+                        "rows" : [
+                            ["Tution fees for one-year(Indicative)*", "50000"],
+                            ["Living and Accomodation", "30000"],
+                            ["Airfare from India to ", "1500"],
+                            ["Visa Fees", "7000"]
+                        ],
+                        "footer_cells" : ["Total Expenses", "88500"]
+                    },
+
+                    "career_and_industry" : "Second wealthiest emirate in the UAE, Dubai is known as the top business doorway for African and middle eastern countries. Top sector that drives growth of this economy is tourism though Dubai is fast developing an epicentre for service industries including Information Technology and Finance. Dubai Internet City and Dubai Media City are known for housing top IT firms and media organizations such as Microsoft, Oracle Corporation, IBM, HP, BBC, CNN and Sky News. Top jobs/sectors to look forward in Dubai include E-Commerce, Digital Marketing Specialists, Business Development & Sales, Education and Engineering & Technology.",
+
+                    "image_1_url" : "dubai-1.jpg",
+                    "image_2_url" : "dubai-2.jpg",
+                    "image_3_url" : "dubai-3.jpeg",
+                    "image_4_url" : "dubai-4.png"
+                },
+
+                "Malaysia" : {
+                    "header_content" : "Want to study in top international universities but have a low budget? Then, Malaysia is the best study destination for you. Known for its tag line “Truly Asia”, the country has a diverse culture and multicultural society. Cities with modern facilities and infrastructures along with celebrations and festivals all year round make the country famous among international students.",
+
+                    "why_content" : "Malaysia is known as the hub of international universities. The cost of living and food of the country is lower than other countries, which makes it an ideal place for international students. English is the widely spoken language in the country which makes it easier for international students to communicate. The country’s thriving industries provide promising employment opportunities for international students. The visa procedures for the country are simple",
+
+                    "key_points" : [
+                        "8 Malaysian universities in the 2023 QS World University ranking top 500",
+                        "Affordable living expenses and food costs",
+                        "Seamless immigration procedures",
+                        "IELTS waiver is possible",
+                        "Hub of international universities including universities of Australia, United Kingdom, Singapore and Canada.",
+                        "English is the widely spoken language",
+                        "City life with modern facilities and infrastructures",
+                        "Scholarships are available for international students"
+                    ],
+
+                    "cost" : {
+                        "header_cells" : ["Types of Expenses", "Annual Expenses in RM"],
+                        "rows" : [
+                            ["Tution fees for one-year(Indicative)*", "60000"],
+                            ["Living and Accomodation", "25500"],
+                            ["Airfare from India to ", "467"],
+                            ["Visa Fees", "3500"],
+                            ["Application Fees", "5000"]
+                        ],
+                        "footer_cells" : ["Total Expenses", "94467"]
+                    },
+
+                    "career_and_industry" : "Apart from the tourism and hospitality industry, the country is also known for its innovative financial sector, palm oil exportation, manufacturing industry, automotive industry and sector of oil, gas and energy. Malaysia’s fully developed economy opens doors for a diverse range of employment and business opportunities including start-ups for international students. International students can work part-time for a maximum of 20 hours per week during semester breaks or holidays of more than 7 days. Most internship opportunities in Malaysia come with stipend.",
+
+                    "image_1_url" : "malaysia-1.jpg",
+                    "image_2_url" : "malaysia-2.webp",
+                    "image_3_url" : "malaysia-3.jpg",
+                    "image_4_url" : "malaysia-4.webp"
+                },
+
+                "Mauritius" : 
+                {
+                    "header_content" : "Mauritius is a located in the Indian Ocean which is best known for its white beaches, reefs and fascinating forests. It is one of the best countries to pursue an education at an affordable price in South Asia. The country has developed one of the finest education systems that have led to students enrolling in universities from various parts of the world. It provides world-class and internationally recognised education followed by affordable living costs for international students.",
+
+                    "key_points" : [
+                        "Home to many foreign Universities",
+                        "International Students can work part time for 20 hours per week",
+                        "It has carved a reputation of being socially, economically and politically stable",
+                        "Plethora of opportunities for career-growth"
+                    ],
+
+                    "image_1_url" : "mauritius-1.jpg",
+                    "image_2_url" : "mauritius-2.jpg",
+                    "image_3_url" : "mauritius-3.png",
+                    "image_4_url" : "mauritius-4.png"
+                },
+
+                "Japan" : 
+                {
+                    "header_content" : "Japan is renowned for its excellent education system and is one of the top-performing country in reading literacy, math and sciences. Excellent safety, accessibility, and high quality of life standards make Japan a top location for students. Studying abroad in Japan means that the students will further studies in a well-rounded education system, experience a unique new culture, and gain a more international perspective. Japan is a popular study abroad destination and offers many advantages for students. International students in Japan can engage with Japanese culture, cuisine, and language. Japan is widely considered a safe country for students, with efficient public transportation.",
+
+                    "key_points" : [
+                        "1st City GDP (USD 1.8 Trill.)",
+                        "76% of foreign companies’ HQs",
+                        "3rd Global power City Index 2017",
+                        "4th Global City Ranking 2017",
+                        "Tokyo is among the best student cities (QS 2019)",
+                        "Most extensive, dependable, and affordable transport system in the world"
+                    ],
+
+                    "image_1_url" : "japan-1.webp",
+                    "image_2_url" : "japan-2.jpg",
+                    "image_3_url" : "japan-3.png",
+                    "image_4_url" : "japan-4.png"
+                },
+
+                "Vietnam" : 
+                {
+                    "header_content" : "Vietnam is known for its rigorous curriculum that is deemed competitive for students. Vietnam is the home to many world heritage sites recognized by UNESCO. Vietnam is known for its endless natural beauty and its famous attraction. Vietnam’s economy is growing steadily at near 7% which will make it fastest growing markets in the world. Vietnam offers a variety of programs while the student will study in a multi- cultural environment",
+
+                    "key_points" : [
+                        "Increasing economic growth creates strong demand in Manpower resources",
+                        "One of the safest countries and is among the 11 world countries those are free from conflict",
+                        "Cost of Living and Tuition fee is much affordable compared to study in Australia and UK",
+                        "Degrees are globally recognised"
+                    ],
+
+                    "image_1_url" : "vietnam-1.webp",
+                    "image_2_url" : "vietnam-2.jpg",
+                    "image_3_url" : "vietnam-3.png",
+                    "image_4_url" : "vietnam-4.png"
+                },
+
+                "China" : 
+                {
+                    "header_content" : "The number of higher education institutions in China has doubled in the last decade, and there are almost 3,000 institutions now. 6 Chinese universities rank within the top 100 as per the QS World University Rankings 2021. Overall, 40 Chinese institutions received a ranking. China has also made numerous partnerships with renowned, reputed universities of the UK and the U.S.",
+
+                    "key_points" : [
+                        "6 of Chinese Universities are ranked in top 100 in the world (QS World Rankings 2023)",
+                        "Due to its growing economy over the past three decades numerous Fortune 500 companies are based in China",
+                        "500,000 international students studying at Chinese universities",
+                        "Tuition fees is almost 5 times lower than the UK or the US Universities",
+                        "Popular courses in field of Engineering, Computer Science, International Business, MBA, Medicine to Chinese Language, Calligraphy, and Martial Arts"
+                    ],
+
+                    "image_1_url" : "china-1.jpg",
+                    "image_2_url" : "china-2.jpg",
+                    "image_3_url" : "china-3.png",
+                    "image_4_url" : "china-4.png"
+                },
+
+                "South Korea" : 
+                {
+                    "header_content" : "Study in South Korea to get the world-class education at the most affordable cost and experience the perfect blend of innovation and rich-traditional culture. The country is safe and student friendly. Apart from providing numerous scholarships, the country is offering a plethora of job opportunities to international students. International students can work unlimited hours during holidays to aid their studies.",
+
+                    "key_points" : [
+                        "Highly affordable tuition fees and living expenses.",
+                        "Ranked as one of the leading OECD countries for academic achievement and competitiveness.",
+                        "Stands high in the global index of cognitive skills and educational attainment rankings.",
+                        "You can work up to 20 hours per week and indefinite/unlimited hours during holidays.",
+                        "Known as the Hub of innovative and advanced technology.",
+                        "Learn Korean Language free or at negligible cost."
+                    ],
+
+                    "image_1_url" : "south-korea-1.jpg",
+                    "image_2_url" : "south-korea2.webp",
+                    "image_3_url" : "south-korea-3.png",
+                    "image_4_url" : "south-korea-4.png"
+                }
+            },
+
+            "image_1_url" : "asia-1.webp",
+            "image_2_url" : "asia-2.jpg",
+            "image_3_url" : "asia-3.png",
+            "image_4_url" : "asia-4.png",
+            "home_image_url" : "asia-home.png"
+        }
+    },
+
+    "testimonials" : [
+        {
+            "user_name" : "Sateesh Dogga",
+            "review" : "With all of your questionaries, they provide excellent assistance for higher education, and the calibre of their work far exceeds expectations.​",
+            "stars" : 5,
+            "University" : "University of East London, UK"
+        },
+        {
+            "user_name" : "Ummarasetti Pavani",
+            "review" : "​MR betterlife consultancy is one of the best If you have a dream of going abroa. They helped​ me throughout the journey and thank you team for your endlessness help.",
+            "stars" : 4,
+            "University" : "Coventry University, UK"
+        },
+        {
+            "user_name" : "Lokesh Reddy",
+            "review" : "When i decided to come UK I started searching for consultancies many of my friends recommended the MR Betterlife consultancy, they helped me a lot in selecting the universities and visa processing. After coming to the UK they helped me to get right accommodation hoping for the further help after my studies.​",
+            "stars" : 4,
+            "University" : "Coventry University, UK"
+        },
+        {
+            "user_name" : "Sanjay K",
+            "review" : "MR Betterlife Consultancy provided exceptional service throughout my application journey. From shortlisting the universities to finalizing my admission, their support was unwavering. The team’s expertise and encouragement were crucial to my success in getting admitted to a prestigious university in USA.​​",
+            "stars" : 5,
+            "University" : "University of Toronto, USA"
+        }
+    ]
+    
+}
